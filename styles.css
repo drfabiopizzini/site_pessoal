@@ -311,7 +311,7 @@ p{margin:0 0 1.1em}
   .contact__item{grid-template-columns:1fr 24px;gap:4px 12px}
   .contact__k{grid-column:1/-1}
   .orbit__tag{font-size:9px;padding:5px 8px}
-  .orbit__tag.t5{right:-2%}.orbit__tag.t3{left:-2%}.orbit__tag.t2{right:0}
+  .orbit{width:calc(100% - 24px)}.orbit__tag.t5{right:-4px}.orbit__tag.t3{left:-4px}.orbit__tag.t2{right:0}.orbit__tag.t1{left:0}
   .hero__actions .btn{flex:1 1 100%}
   .axes{padding:22px 20px}
 }
